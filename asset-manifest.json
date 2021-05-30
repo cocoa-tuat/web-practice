@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/web-practice/static/css/main.cac05ee5.chunk.css",
+    "main.js": "/web-practice/static/js/main.76319da5.chunk.js",
+    "main.js.map": "/web-practice/static/js/main.76319da5.chunk.js.map",
+    "runtime-main.js": "/web-practice/static/js/runtime-main.6f273226.js",
+    "runtime-main.js.map": "/web-practice/static/js/runtime-main.6f273226.js.map",
+    "static/css/2.d4bba3f4.chunk.css": "/web-practice/static/css/2.d4bba3f4.chunk.css",
+    "static/js/2.ef6da836.chunk.js": "/web-practice/static/js/2.ef6da836.chunk.js",
+    "static/js/2.ef6da836.chunk.js.map": "/web-practice/static/js/2.ef6da836.chunk.js.map",
+    "static/js/3.b5a43b56.chunk.js": "/web-practice/static/js/3.b5a43b56.chunk.js",
+    "static/js/3.b5a43b56.chunk.js.map": "/web-practice/static/js/3.b5a43b56.chunk.js.map",
+    "index.html": "/web-practice/index.html",
+    "static/css/2.d4bba3f4.chunk.css.map": "/web-practice/static/css/2.d4bba3f4.chunk.css.map",
+    "static/css/main.cac05ee5.chunk.css.map": "/web-practice/static/css/main.cac05ee5.chunk.css.map",
+    "static/js/2.ef6da836.chunk.js.LICENSE.txt": "/web-practice/static/js/2.ef6da836.chunk.js.LICENSE.txt",
+    "static/media/brandlogo_w.a6bac510.png": "/web-practice/static/media/brandlogo_w.a6bac510.png",
+    "static/media/font-awesome.min.css": "/web-practice/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/App.css": "/web-practice/static/media/headerimg.3813d921.png",
+    "static/media/image1.4f71db06.png": "/web-practice/static/media/image1.4f71db06.png",
+    "static/media/image2.34713f0b.png": "/web-practice/static/media/image2.34713f0b.png",
+    "static/media/image3.6de66074.png": "/web-practice/static/media/image3.6de66074.png",
+    "static/media/image4.670c7b74.png": "/web-practice/static/media/image4.670c7b74.png",
+    "static/media/image5.95e817d6.png": "/web-practice/static/media/image5.95e817d6.png",
+    "static/media/image6.5da12071.png": "/web-practice/static/media/image6.5da12071.png",
+    "static/media/image7.cc8881cf.png": "/web-practice/static/media/image7.cc8881cf.png",
+    "static/media/image8.9f5824d3.png": "/web-practice/static/media/image8.9f5824d3.png",
+    "static/media/image9.c355c959.png": "/web-practice/static/media/image9.c355c959.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f273226.js",
+    "static/css/2.d4bba3f4.chunk.css",
+    "static/js/2.ef6da836.chunk.js",
+    "static/css/main.cac05ee5.chunk.css",
+    "static/js/main.76319da5.chunk.js"
+  ]
+}
